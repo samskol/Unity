@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b95418f83f089be4e8f9e964cc27c27c, type: 3}
+  m_Name: hiOne
+  m_EditorClassIdentifier: 
+  u1: {fileID: 11400000, guid: 3a09f3def385ba945a2a96b44efa0cff, type: 2}
+  c1: {fileID: 11400000, guid: f9f641eed82311141ab7f9b69bba4b88, type: 2}
+  c2: {fileID: 0}
+  u2: {fileID: 0}
+  field: {fileID: 1366729895307158, guid: 286e3e74ab9d4714b8b93d7220d7762c, type: 2}
+  env: {fileID: 1366729895307158, guid: 286e3e74ab9d4714b8b93d7220d7762c, type: 2}
+  footballs: 4
+  fieldLength: 3
+  gameMode: 2
+  aiOne_difficulty: 40
+  aiTwo_difficulty: 9
+  animMode: 0
+  spastasticDistance: 0.49
+  travelTime: 1.04
+  userTravelTime: 1.13

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3aa1f49857bd5604d9cee78660bc384e, type: 3}
+  m_Name: firstAnim
+  m_EditorClassIdentifier: 
+  animClips:
+  - clipName: pickup
+    posx: 0.23902526
+    posy: 0.3290422
+    posz: -0.71523553
+  - clipName: wave
+    posx: 0.26217085
+    posy: 0.83287764
+    posz: -0.7994763
+  - clipName: jump-up
+    posx: 0.30509073
+    posy: 0.6539273
+    posz: -0.64628863
